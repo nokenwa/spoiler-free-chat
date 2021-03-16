@@ -6,8 +6,9 @@ I built a private chat for my friend and I, that will hide spoilers whenever one
 Requirements:
 1. [Node](https://nodejs.org/en/download/) version 10.19.0 or later (check version in your terminal with `node -v`).
 1. A [Twilio account](https://twilio.com/referral/SaSofa).
+1. A Twilio Phone Number [Buy one here](https://www.twilio.com/console/phone-numbers/search)
 1. A Sync Service. [Create a new Sync Service in the console](https://www.twilio.com/console/sync/services)
-1. The Twilio CLI. [Install the CLI for your operating system](https://www.twilio.com/docs/twilio-cli/quickstart#install-twilio-cli) and login with your Flex account credentials using twilio login.
+1. The Twilio CLI. [Install the CLI for your operating system](https://www.twilio.com/docs/twilio-cli/quickstart#install-twilio-cli) and login with your account credentials using twilio login.
 1. The Twilio serverless plugin. Install from the command line with `twilio plugins:install @twilio-labs/plugin-serverless`. More details in the [docs](https://www.twilio.com/docs/labs/serverless-toolkit/getting-started).
 
 ### Gather Credentials
