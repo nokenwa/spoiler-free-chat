@@ -1,6 +1,13 @@
 # Spoiler Free Chat
 I built a private chat for my friend and I, that will hide spoilers whenever one of us hasn’t watched a new tv show episode. Here’s how I did it with Twilio Sync and Twilio Functions.
 
+## Blog Post
+If you prefer a step by step guide through building this yourself, this blog post will guide you through using Twilio Sync and Twilio Functions to store messages until spoilers are safe.
+
+[ADD BLOG POST LINK]()
+
+---
+
 ## Setup
 
 Requirements:
