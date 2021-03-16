@@ -32,7 +32,7 @@ twilio phone-numbers:update <<INSERT TWILIO NUMBER>> --sms-url <<INSERT FORWARD-
 
 ### Setup Chat participants
 Navigate to the asset marked `index.html` to find a webpage where you can add participants. 
-![Screenshot of Webpage where you can add participants](https://github.com/nokenwa/spoiler-free-chat/setupScreenshot.png)
+![Screenshot of Webpage where you can add participants](https://github.com/nokenwa/spoiler-free-chat/blob/main/setupScreenshot.png)
 
 Once set up all participants should receive a text informing them that they have been added to the group chat.
 
